@@ -26,7 +26,7 @@ pipeline {
 
                
     }
-
+    }
     post {
         // post-process activities, e.g. cleanup or publish
     }
